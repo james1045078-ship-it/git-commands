@@ -8,7 +8,7 @@
 + add: moves changes from your working directory to the staging area 
 + commit: takes a snapshot of your project's currently staged changes and saves it permanently to your local repository's version history.
     + -m: a way to save your changes and record what you have done in your project.
-    + -a:   
+    + -a: adds all tract files it changes   
     + -am: save your changes to the local repository.
 + branch: create, list, rename, and delete branches.
     + -a: manage conflicts in software development and do software releases with ease.
